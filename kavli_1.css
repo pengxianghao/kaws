@@ -365,6 +365,8 @@ ul {
   /*list-style-type: circle;*/
   margin-top: 0;
   padding-left: 0;
+  font-family:'Helvetica Neue', Helvetica, Arial;
+  font-size: 150%;
 }
 
 dl dl,
@@ -376,7 +378,7 @@ ol ul,
 ul dl,
 ul ol,
 ul ul {
-  font-family:'Helvetica Neue' Helvetica, Arial;
+  font-family:'Helvetica Neue', Helvetica, Arial;
   font-size: 150%;
   margin: 1.5rem 0 1.5rem 3.0rem;
 }
@@ -447,7 +449,7 @@ p {
   max-width: 1000px;
   padding-left: 10pt;
     padding-right: 10pt;
-  font-family:'Helvetica Neue' Helvetica, Arial;
+  font-family:'Helvetica Neue',Helvetica, Arial;
   font-size:150%;
 }
 
