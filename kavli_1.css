@@ -376,7 +376,8 @@ ol ul,
 ul dl,
 ul ol,
 ul ul {
-  font-size: 90%;
+  font-family:'Helvetica Neue' Helvetica, Arial;
+  font-size: 150%;
   margin: 1.5rem 0 1.5rem 3.0rem;
 }
 
