@@ -365,7 +365,7 @@ ul {
   /*list-style-type: circle;*/
   margin-top: 0;
   padding-left: 0;
-  font-family:'Helvetica Neue', Helvetica, Arial;
+  font-family: Arial;
   font-size: 125%;
 }
 
@@ -378,7 +378,7 @@ ol ul,
 ul dl,
 ul ol,
 ul ul {
-  font-family:'Helvetica Neue', Helvetica, Arial;
+  font-family:Arial;
   font-size: 125%;
   margin: 1.5rem 0 1.5rem 3.0rem;
 }
@@ -449,7 +449,7 @@ p {
   max-width: 1000px;
   padding-left: 10pt;
     padding-right: 10pt;
-  font-family:'Helvetica Neue',Helvetica, Arial;
+  font-family:Arial;
   font-size:125%;
 }
 
@@ -496,7 +496,7 @@ p {
 
 
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Helvetica Inserat', 'Bitstream Vera Sans Bold', 'Arial Black';
+  font-family: 'Arial Black';
   font-weight: 300;
   letter-spacing: -.1rem;
   margin-bottom: 2.0rem;
