@@ -366,7 +366,7 @@ ul {
   margin-top: 0;
   padding-left: 0;
   font-family:'Helvetica Neue', Helvetica, Arial;
-  font-size: 150%;
+  font-size: 100%;
 }
 
 dl dl,
@@ -379,7 +379,7 @@ ul dl,
 ul ol,
 ul ul {
   font-family:'Helvetica Neue', Helvetica, Arial;
-  font-size: 150%;
+  font-size: 100%;
   margin: 1.5rem 0 1.5rem 3.0rem;
 }
 
@@ -450,7 +450,7 @@ p {
   padding-left: 10pt;
     padding-right: 10pt;
   font-family:'Helvetica Neue',Helvetica, Arial;
-  font-size:150%;
+  font-size:100%;
 }
 
 .p2 {
@@ -525,7 +525,7 @@ h3 {
 }
 
 h4 {
-  font-size: 3.2rem;
+  font-size: 2.8rem;
   letter-spacing: -.08rem;
   line-height: 1.35;
 color:#031422;
@@ -534,7 +534,7 @@ padding-left:10pt;
 }
 
 h5 {
-  font-size: 2.5rem;
+  font-size: 2rem;
   letter-spacing: -.05rem;
   line-height: 1.34;
   padding-left:10pt;
