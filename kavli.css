@@ -123,6 +123,13 @@ body {
   }
 }
 
+@media (max-width: 500px) {
+  .tm-site-title {
+	  	  padding-top:35px;
+    font-size: 3.0rem;
+  }
+}
+
 .tm-site-description {
   font-size: 2.0rem;
   font-weight: 200;
