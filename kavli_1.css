@@ -111,14 +111,14 @@ body {
 
 @media (max-width: 800px) {
   .tm-site-title {
-	  margin-top:-5px;
+	  margin-top:-30px;
     font-size: 3.0rem;
   }
 }
 
 @media (max-width: 660px) {
   .tm-site-title {
-    margin-top:-5px;
+    margin-top:-30px;
     font-size: 3.0rem;
   }
 }
