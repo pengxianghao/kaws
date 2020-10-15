@@ -64,7 +64,7 @@ body {
 
 .tm-header {
   position: absolute;
-  top: 20px;
+  top: 40px;
   bottom: 0;
   left: 0;
   width: 100%;
@@ -105,23 +105,28 @@ body {
 
 
 .tm-site-title {
-    font-size: 4.4rem;
+    font-size: 3.6rem;
     font-weight: 200;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 670px) {
   .tm-site-title {
-	  padding-top:40px;
-    font-size: 3.6rem;
-  }
-}
-
-@media (max-width: 660px) {
-  .tm-site-title {
-	  padding-top:60px;
+    padding-top:20px;
     font-size: 2.6rem;
   }
 }
+
+@media (max-width: 500px) {
+.tm-header {
+    top: 10px;
+  }
+    .tm-site-title {
+		padding-top:40px;
+		    font-size: 2.2rem;
+	}
+}
+
+
 
 
 
@@ -138,11 +143,7 @@ body {
 margin-left: -55px;
 }
 
-@media (max-width: 800px) {
-	.tm-nav {
-	  margin-top: -10px;
-	}
-}
+
 
 .tm-nav-ul {
   display: flex;
