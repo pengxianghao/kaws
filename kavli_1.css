@@ -111,15 +111,15 @@ body {
 
 @media (max-width: 800px) {
   .tm-site-title {
-	  padding-top:40px;
-    font-size: 3.6rem;
+	  margin-top:-30px;
+    font-size: 2.0rem;
   }
 }
 
 @media (max-width: 660px) {
   .tm-site-title {
-	  	  padding-top:55px;
-    font-size: 3.0rem;
+    margin-top:-30px;
+    font-size: 2.0rem;
   }
 }
 
