@@ -118,8 +118,8 @@ body {
 
 @media (max-width: 660px) {
   .tm-site-title {
-	  padding-top:0px;
-    font-size: 3.6rem;
+	  padding-top:60px;
+    font-size: 2.6rem;
   }
 }
 
