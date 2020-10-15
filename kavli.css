@@ -54,6 +54,7 @@ body {
   background-color: #556E5B;
   background-image: url("test2.jpg");
   background-position: center;
+  background-size: cover;
 }
 
 .parallax-window {
@@ -63,7 +64,7 @@ body {
 }
 
 .tm-header {
-  position: absolute;
+  /* position: absolute; */
   top: 20px;
   bottom: 0;
   left: 0;
@@ -85,7 +86,7 @@ body {
 .col-lg-6,
 .col-md-4,
 .col-md-6,
-.col-sm-6, 
+.col-sm-6,
 .col-12 {
   position: relative;
   width: 100%;
@@ -136,11 +137,11 @@ body {
 margin-left: -55px;
 }
 
-@media (max-width: 800px) {
+/* @media (max-width: 800px) { */
 	.tm-nav {
 	  margin-top: -10px;
 	}
-}
+/* } */
 
 .tm-nav-ul {
   display: flex;
@@ -410,7 +411,7 @@ table {
 
 td,
 th {
-  /* border-bottom: 0.1rem solid #e1e1e1; */ 
+  /* border-bottom: 0.1rem solid #e1e1e1; */
   padding: .6rem 2rem;
   text-align: left;
 }
@@ -539,6 +540,6 @@ h5 {
 h6 {
   font-size: 1.2rem;
   letter-spacing: -.05rem;
-  line-height: 0;
+  line-height: 1.2;
 }
 
