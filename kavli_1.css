@@ -127,7 +127,13 @@ body {
   font-size: 2.0rem;
   font-weight: 200;
 }
+@media (max-width: 800px) {
+	.tm-nav {
+	  margin-top: -10px;
+	}
+}
 
+@media (min-width: 801px) {
 .tm-nav {
 	position:absolute;
 	  display: inline-block;
@@ -136,11 +142,7 @@ body {
 margin-left: -55px;
 }
 
-@media (max-width: 800px) {
-	.tm-nav {
-	  margin-top: -10px;
-	}
-}
+
 
 .tm-nav-ul {
   display: flex;
@@ -172,7 +174,7 @@ margin-left: -55px;
   	    color:black;
   }
   
-  
+}
   
   
   
