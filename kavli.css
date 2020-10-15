@@ -116,13 +116,6 @@ body {
   }
 }
 
-@media (max-width: 660px) {
-  .tm-site-title {
-	  	  padding-top:55px;
-    font-size: 3.0rem;
-  }
-}
-
 @media (max-width: 500px) {
   .tm-site-title {
 	  	  padding-top:35px;
